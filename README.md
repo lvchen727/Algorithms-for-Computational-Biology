@@ -10,4 +10,4 @@ This course is a survey of algorithms and mathematical methods in biological seq
 - hmmDecodeAssignment.m : Implemented the Viterbi algorithm for HMM decoding. 
 - hmmPosteriorDecodeAssignment.m : Implemented Baum-Welch algorithm for unsupervised parameter estimation.
 - alignment-Dist-1.1.m : Implemented the Smith-Waterman algorithm for local alignment of two DNA sequences. 
-
+- repressionSimulation-Dist-1.0.m : Simulated a system of any number of interacting repressors.
