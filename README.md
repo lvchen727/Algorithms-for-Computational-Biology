@@ -11,3 +11,4 @@ This course is a survey of algorithms and mathematical methods in biological seq
 - hmmPosteriorDecodeAssignment.m : Implemented Baum-Welch algorithm for unsupervised parameter estimation.
 - alignment-Dist-1.1.m : Implemented the Smith-Waterman algorithm for local alignment of two DNA sequences. 
 - repressionSimulation-Dist-1.0.m : Simulated a system of any number of interacting repressors.
+- repressionSystem-Dev-1.2.m : Modeled a system of repressors at steady state
